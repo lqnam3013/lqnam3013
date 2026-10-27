@@ -1,1 +1,1 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&multiline=true&width=435&lines=Xin+chào!;Mình+là+Lê+Quang+Nam!;24-28+TH+và+THCS+Nguyễn+Tuân!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&pause=1000&multiline=true&width=450&height=100&lines=%E1%85%9F%E1%85%9F%E1%85%9F%E1%85%9F%E1%85%9F%E1%85%9FXin+ch%C3%A0o!;M%C3%ACnh+l%C3%A0+L%C3%AA+Quang+Nam;24-26+TH+v%C3%A0+THCS+Nguy%E1%BB%85n+Tu%C3%A2n)](https://git.io/typing-svg)
